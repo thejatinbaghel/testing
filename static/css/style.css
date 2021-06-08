@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    background-color: #2a3839;
+
+display: flex;
+width: 100%;
+
+    
+}
+
+nav ul li{
+    display: inline-block;
+    color: white;
+    list-style: none;
+    padding: 17px 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3vw;
+}
+
+.midText{
+
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 1.9vw;
+    margin: 1vh 0vh;
+    color: white;
+}.topText{
+    font-family: 'Mate SC', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+margin: 0vh;
+height: 57vh;
+text-align: center;
+height: 11vh;
+text-align: center;
+font-size: 3vw;
+padding: 16vh 0vh 0vh;
+color: white;
+}
+
+.topTextBG{
+    background-image: linear-gradient(#9f13e6, #139fbe
+    );
+    height: 64vh;
+}
